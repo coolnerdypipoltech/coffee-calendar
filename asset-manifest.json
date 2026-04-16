@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coffee-calendar/static/css/main.0836833f.css",
+    "main.js": "/coffee-calendar/static/js/main.59965f01.js",
+    "static/js/453.3315b2b3.chunk.js": "/coffee-calendar/static/js/453.3315b2b3.chunk.js",
+    "index.html": "/coffee-calendar/index.html",
+    "main.0836833f.css.map": "/coffee-calendar/static/css/main.0836833f.css.map",
+    "main.59965f01.js.map": "/coffee-calendar/static/js/main.59965f01.js.map",
+    "453.3315b2b3.chunk.js.map": "/coffee-calendar/static/js/453.3315b2b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0836833f.css",
+    "static/js/main.59965f01.js"
+  ]
+}
