@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coffee-calendar/static/css/main.72a85deb.css",
-    "main.js": "/coffee-calendar/static/js/main.baa8e42c.js",
+    "main.css": "/coffee-calendar/static/css/main.297a7733.css",
+    "main.js": "/coffee-calendar/static/js/main.8e2f4192.js",
     "static/js/453.3315b2b3.chunk.js": "/coffee-calendar/static/js/453.3315b2b3.chunk.js",
     "index.html": "/coffee-calendar/index.html",
-    "main.72a85deb.css.map": "/coffee-calendar/static/css/main.72a85deb.css.map",
-    "main.baa8e42c.js.map": "/coffee-calendar/static/js/main.baa8e42c.js.map",
+    "main.297a7733.css.map": "/coffee-calendar/static/css/main.297a7733.css.map",
+    "main.8e2f4192.js.map": "/coffee-calendar/static/js/main.8e2f4192.js.map",
     "453.3315b2b3.chunk.js.map": "/coffee-calendar/static/js/453.3315b2b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72a85deb.css",
-    "static/js/main.baa8e42c.js"
+    "static/css/main.297a7733.css",
+    "static/js/main.8e2f4192.js"
   ]
 }
